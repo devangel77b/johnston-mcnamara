@@ -1,3 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+*~
+
 # Prerequisites
 *.d
 
