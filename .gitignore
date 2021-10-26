@@ -3,6 +3,7 @@
 projectfiles
 *.py*
 *~
+BUILD
 
 # Prerequisites
 *.d
